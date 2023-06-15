@@ -16,7 +16,10 @@
                 <input type="submit" value="Log In">
             </form>
             <br>
-            <a href="frm_register.php">สมัครสมาชิก</a>
+           <a href="frm_register.php">สมัครสมาชิก</a>
+        </div>
+        <div>
+           new time to read 
         </div>
     </body>
 </html>
